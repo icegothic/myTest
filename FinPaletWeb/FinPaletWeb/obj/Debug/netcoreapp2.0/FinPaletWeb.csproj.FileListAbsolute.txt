@@ -1,0 +1,11 @@
+W:\Projects\FinPaletWeb\FinPaletWeb\bin\Debug\netcoreapp2.0\FinPaletWeb.deps.json
+W:\Projects\FinPaletWeb\FinPaletWeb\bin\Debug\netcoreapp2.0\FinPaletWeb.runtimeconfig.json
+W:\Projects\FinPaletWeb\FinPaletWeb\bin\Debug\netcoreapp2.0\FinPaletWeb.runtimeconfig.dev.json
+W:\Projects\FinPaletWeb\FinPaletWeb\bin\Debug\netcoreapp2.0\FinPaletWeb.dll
+W:\Projects\FinPaletWeb\FinPaletWeb\bin\Debug\netcoreapp2.0\FinPaletWeb.pdb
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.csprojAssemblyReference.cache
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.csproj.CoreCompileInputs.cache
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.AssemblyInfoInputs.cache
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.AssemblyInfo.cs
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.dll
+W:\Projects\FinPaletWeb\FinPaletWeb\obj\Debug\netcoreapp2.0\FinPaletWeb.pdb
